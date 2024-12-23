@@ -101,7 +101,7 @@ Tras probar ambos códigos en numerosas ocasiones, se concluyó que el modelo fu
 ### Ejemplos:
 
 - **Captura 1: Modelo no fuzzy (43 puntos)**
-![Captura 1](CapturaExpert.png)
+![Captura 1](capturaExpert.png)
 
 - **Captura 2: Modelo fuzzy (67 puntos)**
-![Captura 2](CapturaFuzzy.png)
+![Captura 2](capturaFuzzy.png)
